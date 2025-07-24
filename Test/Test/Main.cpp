@@ -5,8 +5,11 @@ int main()
     //Hello Worldと出力
     std::cout << "Hello World!\n";
 
-    //HelloWorldと出力2
-    std::cout << "HelloWorld\n";
+    //HelloWorld2と出力
+    std::cout << "HelloWorld2\n";
+
+    //HelloWorld3と出力
+    std::cout << "HelloWorld3\n";
 
     return 0;
 }
