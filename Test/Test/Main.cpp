@@ -8,8 +8,8 @@ int main()
     //HelloWorld2と出力
     std::cout << "HelloWorld2\n";
 
-    //HelloWorld3と出力
-    std::cout << "HelloWorld3\n";
+    //HelloWorld4と出力
+    std::cout << "HelloWorld4\n";
 
     return 0;
 }
