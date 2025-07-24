@@ -8,5 +8,8 @@ int main()
     //GoodByeと出力
     std::cout << "GoodBye\n";
 
+    //HelloWorldと出力
+    std::cout << "HelloWorld\n";
+
     return 0;
 }
